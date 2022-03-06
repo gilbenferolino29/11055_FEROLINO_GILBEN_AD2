@@ -1,6 +1,8 @@
 # WeatherForecast
 Weather app
 link: https://weatherapp-48775.web.app/
+https://github.com/gilbenferolino29/11055_FEROLINO_GILBEN_AD2/blob/main/weather-forecast/1.png?raw=true
+https://github.com/gilbenferolino29/11055_FEROLINO_GILBEN_AD2/blob/main/weather-forecast/2.png?raw=true
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
